@@ -75,7 +75,7 @@ const MobileContainer: FunctionComponent<Props> = ({
             Home
           </Menu.Item>
         </Link>
-        <Link route="/lists">
+        <Link route="/users">
           <Menu.Item as="a">Browse Influencer</Menu.Item>
         </Link>
       </Sidebar>
