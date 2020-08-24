@@ -1,5 +1,5 @@
 ## Fanclub
-This is a Website that contains information about Films. Build with Stack:
+This is a fans <> public figures website club. Build with Stack:
 - Next.JS
 - SemanticUI
 - Prisma
