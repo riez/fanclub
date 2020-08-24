@@ -1,0 +1,16 @@
+CREATE table IF NOT EXISTS users (
+  id SERIAL PRIMARY KEY,
+  gender VARCHAR(10),
+  name VARCHAR(200),
+  username VARCHAR(50),
+  email VARCHAR(100),
+  address VARCHAR(200),
+  city VARCHAR(50),
+  state VARCHAR(50),
+  country VARCHAR(50),
+  postcode VARCHAR(10),
+  phone VARCHAR(20),
+  cell VARCHAR(20),
+  nat VARCHAR(20),
+  picture VARCHAR(150)
+);
